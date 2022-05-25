@@ -1,0 +1,13 @@
+<distributionManagement>
+    <repository>
+        <id>nexus</id>
+        <name>nexus release repo</name>
+        <url>http://44.204.70.153:8081/repository/mymaven-release/</ur
+    </repository>
+
+    <snapshotRepository>
+        <id>nexus</id>
+        <name>nexus snapshot repo</name>
+        <url>http://44.204.70.153:8081/repository/mymaven-snapshot/</url>
+    </snapshotRepository>
+</distributionManagement>
